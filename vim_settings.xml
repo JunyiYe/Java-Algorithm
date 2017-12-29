@@ -1,0 +1,397 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/JavaTest/testSycronized/src/testSycronized.java" timestamp="1513434989246">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_13.java" timestamp="1514215517213">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/samples/Test2.java" timestamp="1514334103292">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_21.java" timestamp="1514344492785">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="22" column="71" />
+        <mark key="^" line="22" column="71" />
+        <mark key="." line="22" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/MySort1.java" timestamp="1514550546579">
+        <mark key="[" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Daemon/src/MyRunnable.java" timestamp="1513535381249">
+        <mark key="[" line="14" column="24" />
+      </file>
+      <file name="/a.dummy" timestamp="1514550655957">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/LearnStatic.java" timestamp="1513442190765">
+        <mark key="[" line="21" column="42" />
+        <mark key="]" line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_7.java" timestamp="1514152451250">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 3/src/edu/njit/junyi/exercises/Exe3_32.java" timestamp="1514512147991">
+        <mark key="[" line="21" column="67" />
+        <mark key="]" line="21" column="67" />
+        <mark key="." line="21" column="67" />
+        <mark key="^" line="18" column="90" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_1.java" timestamp="1514089025899">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="10" column="63" />
+        <mark key="^" line="10" column="63" />
+        <mark key="." line="10" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_2.java" timestamp="1514089670556">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="47" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_8.java" timestamp="1514213237616">
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="48" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_22.java" timestamp="1514218626661">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_26.java" timestamp="1514224378924">
+        <mark key="[" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/samples/Test1.java" timestamp="1514300190603">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_35.java" timestamp="1514520594559">
+        <mark key="[" line="2" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_1.java" timestamp="1514336553421">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_1.java" timestamp="1514496178415">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/MySortBubblesort.java" timestamp="1514550720376">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/StaticExtendsTest.java" timestamp="1513452594144">
+        <mark key="[" line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/NewC.java" timestamp="1513445265894">
+        <mark key="[" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_39.java" timestamp="1514512727846">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/learnStatic.java" timestamp="1513440831806">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_22.java" timestamp="1514342209888">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="61" />
+        <mark key="^" line="14" column="61" />
+        <mark key="." line="14" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/testSet/src/testSet.java" timestamp="1513454875850">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_36.java" timestamp="1514520541053">
+        <mark key="[" line="16" column="60" />
+        <mark key="]" line="16" column="57" />
+        <mark key="^" line="16" column="57" />
+        <mark key="." line="16" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_2.java" timestamp="1514496492068">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_5.java" timestamp="1514507529517">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="24" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/B.java" timestamp="1513442592735">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/samples/ComputeAreaWithConsoleInput.java" timestamp="1514041494099">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 3/src/edu/njit/junyi/exercises/Exe3_9.java" timestamp="1514236238195">
+        <mark key="[" line="35" column="59" />
+        <mark key="]" line="35" column="59" />
+        <mark key="." line="35" column="59" />
+        <mark key="^" line="29" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/samples/Test.java" timestamp="1514235223257">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="25" column="41" />
+        <mark key="^" line="25" column="41" />
+        <mark key="." line="25" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/samples/printCalendar.java" timestamp="1514395960517">
+        <mark key="[" line="79" column="27" />
+        <mark key="]" line="79" column="27" />
+        <mark key="^" line="79" column="21" />
+        <mark key="." line="79" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/samples/HexDigit2Dec.java" timestamp="1514318874182">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="7" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/testSet/src/TestSet.java" timestamp="1513455017010">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/testVim/src/testVim.java" timestamp="1513386086459">
+        <mark key="[" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_3.java" timestamp="1514497229919">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/C.java" timestamp="1513442678590">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_38.java" timestamp="1514516267360">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/NewA.java" timestamp="1513452734537">
+        <mark key="[" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/LearnStatic2.java" timestamp="1513442230724">
+        <mark key="[" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/samples/OrderTwoCities.java" timestamp="1514300023547">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_24.java" timestamp="1514341768113">
+        <mark key="'" line="20" column="24" />
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="21" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_15.java" timestamp="1514216519802">
+        <mark key="[" line="17" column="76" />
+        <mark key="]" line="17" column="74" />
+        <mark key="." line="17" column="74" />
+        <mark key="^" line="17" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/finalSample/src/TClass.java" timestamp="1513471749360">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/samples/DisplayUnicode.java" timestamp="1514086832298">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 3/src/edu/njit/junyi/samples/SubtractionQuiz.java" timestamp="1514226712264">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="25" column="92" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/D.java" timestamp="1513442717841">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/NewB.java" timestamp="1513452912098">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_3.java" timestamp="1514124776502">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/samples/ComputeAverage.java" timestamp="1514042387063">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="41" />
+        <mark key="^" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/samples/ComputeLoanUsingInputDialog.java" timestamp="1514224352482">
+        <mark key="[" line="41" column="60" />
+        <mark key="]" line="41" column="60" />
+        <mark key="^" line="43" column="7" />
+        <mark key="." line="41" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_6.java" timestamp="1514151309134">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="63" />
+        <mark key="^" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_23.java" timestamp="1514220492475">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/samples/GuessBirthday.java" timestamp="1514300441690">
+        <mark key="[" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 3/src/edu/njit/junyi/samples/Exe3_4.java" timestamp="1514228343028">
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="30" column="43" />
+        <mark key="^" line="30" column="43" />
+        <mark key="." line="30" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Daemon/src/ThreadExample1.java" timestamp="1513538785584">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_37.java" timestamp="1514519718262">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="5" column="38" />
+      </file>
+      <file name="/fragment.java" timestamp="1513441415639">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/samples/ComputeArea.java" timestamp="1514046354052">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="13" column="63" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="13" column="63" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="7" column="25" filename="$USER_HOME$/Documents/JavaTest/finalSample/src/Question4.java" />
+      <jump line="2" column="15" filename="$USER_HOME$/Documents/JavaTest/Daemon/src/Barrier.java" />
+      <jump line="23" column="51" filename="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_24.java" />
+      <jump line="20" column="24" filename="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_24.java" />
+      <jump line="79" column="63" filename="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/samples/printCalendar.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>n</text>
+      </register>
+      <register name="-" type="4">
+        <text>n</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJUaGUgY2l0aWVzIGluIGFscGhhYmV0aWNhbCBvcmRlciBhcmUgIgogICAgICAgICAgICArIGNpdHkxICsgIiAiICsgY2l0eTIpOwogICAgICAgIH0gZWxzZSA=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTY2FubmVyIGlucHV0ID0gbmV3IFNjYW5uZXIoU3lzdGVtLmluKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKGNoYXIpIDUyLjkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgIH0gZWxzZSAgewo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
