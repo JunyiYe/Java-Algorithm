@@ -137,6 +137,12 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/FindMaxDemo.java" timestamp="1514646927020">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="17" column="49" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_22.java" timestamp="1514342209888">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="61" />
@@ -242,6 +248,13 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/Circle.java" timestamp="1514646193058">
+        <mark key="'" line="2" column="19" />
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/NewA.java" timestamp="1513452734537">
         <mark key="[" line="0" column="19" />
       </file>
@@ -253,6 +266,13 @@
         <mark key="]" line="9" column="24" />
         <mark key="^" line="7" column="23" />
         <mark key="." line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_24.java" timestamp="1514341768113">
+        <mark key="'" line="20" column="24" />
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="21" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_15.java" timestamp="1514216519802">
         <mark key="[" line="17" column="76" />
@@ -329,6 +349,9 @@
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/samples/GuessBirthday.java" timestamp="1514300441690">
         <mark key="[" line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/Shape.java" timestamp="1514646098197">
+        <mark key="[" line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 3/src/edu/njit/junyi/samples/Exe3_4.java" timestamp="1514228343028">
         <mark key="[" line="30" column="47" />
         <mark key="]" line="30" column="43" />
@@ -369,43 +392,47 @@
       <jump line="23" column="51" filename="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_24.java" />
       <jump line="20" column="24" filename="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_24.java" />
       <jump line="79" column="63" filename="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/samples/printCalendar.java" />
+      <jump line="2" column="19" filename="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/Circle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJUaGUgY2l0aWVzIGluIGFscGhhYmV0aWNhbCBvcmRlciBhcmUgIgogICAgICAgICAgICArIGNpdHkxICsgIiAiICsgY2l0eTIpOwogICAgICAgIH0gZWxzZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="3" type="4">
+        <text>//import javafx.scene.shape.Rectangle;
+//import javafx.scene.shape.Shape;
+import java.awt.*;
+import java.awt.geom.Arc2D;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgamF2YWZ4LnNjZW5lLnNoYXBlLkNpcmNsZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
+        <text encoding="base64">CQkvL1N5c3RlbS5vdXQucHJpbnRsbihmaW5kTWF4KHNocDEpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8JCQkJbmV3IFJlY3RhbmdsZSggMy4wLCA0LjAgKSB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">Ly8JCQkJbmV3IFJlY3RhbmdsZSgzLjAsIDMuMCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChudW1iZXJzW2ldID09IDApIHsK</text>
+        <text encoding="base64">CQkJCW5ldyBSZWN0YW5nbGUoMywgNCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
