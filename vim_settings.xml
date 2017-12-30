@@ -99,6 +99,12 @@
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/samples/Test1.java" timestamp="1514300190603">
         <mark key="[" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/BoxingDemo.java" timestamp="1514648607014">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_35.java" timestamp="1514520594559">
         <mark key="[" line="2" column="22" />
       </file>
@@ -184,6 +190,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="17" column="39" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/GenericMemoryCell.java" timestamp="1514648000234">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="49" />
+        <mark key="^" line="5" column="49" />
+        <mark key="." line="5" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 3/src/edu/njit/junyi/exercises/Exe3_9.java" timestamp="1514236238195">
         <mark key="[" line="35" column="59" />
@@ -346,6 +358,12 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/Comparable.java" timestamp="1514648078829">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/samples/GuessBirthday.java" timestamp="1514300441690">
         <mark key="[" line="2" column="28" />
       </file>
@@ -395,11 +413,11 @@
       <jump line="2" column="19" filename="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/Circle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>)</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJUaGUgY2l0aWVzIGluIGFscGhhYmV0aWNhbCBvcmRlciBhcmUgIgogICAgICAgICAgICArIGNpdHkxICsgIiAiICsgY2l0eTIpOwogICAgICAgIH0gZWxzZSA=</text>
