@@ -27,6 +27,12 @@
       <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/MySort1.java" timestamp="1514550546579">
         <mark key="[" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/Test.java" timestamp="1514639747768">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/JavaTest/Daemon/src/MyRunnable.java" timestamp="1513535381249">
         <mark key="[" line="14" column="24" />
       </file>
@@ -192,6 +198,12 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="17" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/PrintOut.java" timestamp="1514639588185">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="44" />
+        <mark key="^" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/JavaTest/testSet/src/TestSet.java" timestamp="1513455017010">
         <mark key="[" line="9" column="35" />
         <mark key="]" line="10" column="31" />
@@ -230,13 +242,6 @@
         <mark key="]" line="9" column="24" />
         <mark key="^" line="7" column="23" />
         <mark key="." line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/exercises/Exe4_24.java" timestamp="1514341768113">
-        <mark key="'" line="20" column="24" />
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="21" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_15.java" timestamp="1514216519802">
         <mark key="[" line="17" column="76" />
@@ -344,10 +349,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJUaGUgY2l0aWVzIGluIGFscGhhYmV0aWNhbCBvcmRlciBhcmUgIgogICAgICAgICAgICArIGNpdHkxICsgIiAiICsgY2l0eTIpOwogICAgICAgIH0gZWxzZSA=</text>
