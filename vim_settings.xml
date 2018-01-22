@@ -291,11 +291,11 @@
         <mark key="." line="17" column="74" />
         <mark key="^" line="17" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Samples/FindNearestPoints.java" timestamp="1516652709977">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="44" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="6" column="44" />
+      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Samples/FindNearestPoints.java" timestamp="1516654450958">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/finalSample/src/TClass.java" timestamp="1513471749360">
         <mark key="[" line="4" column="15" />
@@ -430,44 +430,44 @@
       <jump line="2" column="19" filename="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/Circle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIlN0dWRlbnQgIiArIGkgKyAiJ3MgY29ycmVjdCBjb3VudCBpcyAiICsgY29ycmVjdENvdW50KTsK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJUaGUgY2l0aWVzIGluIGFscGhhYmV0aWNhbCBvcmRlciBhcmUgIgogICAgICAgICAgICArIGNpdHkxICsgIiAiICsgY2l0eTIpOwogICAgICAgIH0gZWxzZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIlN0dWRlbnQgIiArIGkgKyAiJ3MgY29ycmVjdCBjb3VudCBpcyAiICsgY29ycmVjdENvdW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlzaG9ydGVzdERpc3RhbmNlID0gZGlzdGFuY2U7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIlN0dWRlbnQgIiArIGkgKyAiJ3MgY29ycmVjdCBjb3VudCBpcyAiICsgY29ycmVjdENvdW50KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>//import javafx.scene.shape.Rectangle;
 //import javafx.scene.shape.Shape;
 import java.awt.*;
 import java.awt.geom.Arc2D;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgamF2YWZ4LnNjZW5lLnNoYXBlLkNpcmNsZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkvL1N5c3RlbS5vdXQucHJpbnRsbihmaW5kTWF4KHNocDEpKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8JCQkJbmV3IFJlY3RhbmdsZSggMy4wLCA0LjAgKSB9Owo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgamF2YWZ4LnNjZW5lLnNoYXBlLkNpcmNsZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
