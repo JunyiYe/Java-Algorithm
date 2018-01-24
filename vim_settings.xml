@@ -63,6 +63,9 @@
         <mark key="^" line="10" column="63" />
         <mark key="." line="10" column="63" />
       </file>
+      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Exercises/Exe8_2.java" timestamp="1516806737844">
+        <mark key="[" line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/MemoryCell.java" timestamp="1514641834793">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -79,6 +82,12 @@
         <mark key="]" line="12" column="48" />
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Samples/CheckSudokuSolution.txt" timestamp="1516803111559">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_22.java" timestamp="1514218626661">
         <mark key="[" line="10" column="12" />
@@ -231,6 +240,12 @@
         <mark key="]" line="7" column="44" />
         <mark key="^" line="7" column="44" />
         <mark key="." line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Exercises/Exe8_4.java" timestamp="1516807639121">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="39" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/testSet/src/TestSet.java" timestamp="1513455017010">
         <mark key="[" line="9" column="35" />
@@ -411,7 +426,7 @@
         <mark key="^" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1516631040015">
+      <file name="/fragment.java" timestamp="1516805826458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/samples/ComputeArea.java" timestamp="1514046354052">
@@ -431,43 +446,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>a</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJUaGUgY2l0aWVzIGluIGFscGhhYmV0aWNhbCBvcmRlciBhcmUgIgogICAgICAgICAgICArIGNpdHkxICsgIiAiICsgY2l0eTIpOwogICAgICAgIH0gZWxzZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbltpXSA9IHN1bTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaW50IHN1bSA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlzaG9ydGVzdERpc3RhbmNlID0gZGlzdGFuY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIlN0dWRlbnQgIiArIGkgKyAiJ3MgY29ycmVjdCBjb3VudCBpcyAiICsgY29ycmVjdENvdW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCQlzaG9ydGVzdERpc3RhbmNlID0gZGlzdGFuY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIlN0dWRlbnQgIiArIGkgKyAiJ3MgY29ycmVjdCBjb3VudCBpcyAiICsgY29ycmVjdENvdW50KTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>//import javafx.scene.shape.Rectangle;
-//import javafx.scene.shape.Shape;
-import java.awt.*;
-import java.awt.geom.Arc2D;</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgamF2YWZ4LnNjZW5lLnNoYXBlLkNpcmNsZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
