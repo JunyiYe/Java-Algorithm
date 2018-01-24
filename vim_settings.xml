@@ -241,11 +241,11 @@
         <mark key="^" line="7" column="44" />
         <mark key="." line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Exercises/Exe8_4.java" timestamp="1516807639121">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="16" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="39" column="41" />
+      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Exercises/Exe8_4.java" timestamp="1516816916727">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="43" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/testSet/src/TestSet.java" timestamp="1513455017010">
         <mark key="[" line="9" column="35" />
@@ -445,8 +445,8 @@
       <jump line="2" column="19" filename="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/edu/njit/junyi/samples/Circle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWludCB0ZW1wID0gY3VycmVudE1heEluZGV4Owo=</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -455,31 +455,31 @@
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJUaGUgY2l0aWVzIGluIGFscGhhYmV0aWNhbCBvcmRlciBhcmUgIgogICAgICAgICAgICArIGNpdHkxICsgIiAiICsgY2l0eTIpOwogICAgICAgIH0gZWxzZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJbltpXSA9IHN1bTsK</text>
+        <text encoding="base64">CQkJCWludCB0ZW1wID0gY3VycmVudE1heEluZGV4Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaW50IHN1bSA9IDA7Cg==</text>
+        <text encoding="base64">CQkJCWxpc3RbaV0gPSBjdXJyZW50TWF4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbltpXSA9IHN1bTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaW50IHN1bSA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlzaG9ydGVzdERpc3RhbmNlID0gZGlzdGFuY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIlN0dWRlbnQgIiArIGkgKyAiJ3MgY29ycmVjdCBjb3VudCBpcyAiICsgY29ycmVjdENvdW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCQlzaG9ydGVzdERpc3RhbmNlID0gZGlzdGFuY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIlN0dWRlbnQgIiArIGkgKyAiJ3MgY29ycmVjdCBjb3VudCBpcyAiICsgY29ycmVjdENvdW50KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
