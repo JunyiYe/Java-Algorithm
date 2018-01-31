@@ -72,11 +72,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="54" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/JavaTest/Java Algorithm Chapter 1/src/MemoryCell.java" timestamp="1514641834793">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/exercises/Exe2_2.java" timestamp="1514089670556">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="47" />
@@ -145,11 +140,6 @@
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/NewC.java" timestamp="1513445265894">
         <mark key="[" line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_39.java" timestamp="1514512727846">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/learnStatic/src/learnStatic.java" timestamp="1513440831806">
         <mark key="[" line="15" column="5" />
@@ -324,10 +314,10 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Exercises/Exe8_12.java" timestamp="1517408332451">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
+      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Exercises/Exe8_12.java" timestamp="1517409217598">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/finalSample/src/TClass.java" timestamp="1513471749360">
         <mark key="[" line="4" column="15" />
@@ -476,10 +466,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>brackets[0][1</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>brackets[0][1</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJUaGUgY2l0aWVzIGluIGFscGhhYmV0aWNhbCBvcmRlciBhcmUgIgogICAgICAgICAgICArIGNpdHkxICsgIiAiICsgY2l0eTIpOwogICAgICAgIH0gZWxzZSA=</text>
