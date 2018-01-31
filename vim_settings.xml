@@ -217,6 +217,11 @@
         <mark key="." line="35" column="59" />
         <mark key="^" line="29" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 3/src/Samples/ComputeTax.java" timestamp="1517408099250">
+        <mark key="[" line="40" column="50" />
+        <mark key="]" line="40" column="50" />
+        <mark key="." line="40" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 4/src/edu/njit/junyi/samples/Test.java" timestamp="1514235223257">
         <mark key="[" line="26" column="27" />
         <mark key="]" line="25" column="41" />
@@ -318,6 +323,11 @@
         <mark key="]" line="15" column="44" />
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Exercises/Exe8_12.java" timestamp="1517408332451">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/finalSample/src/TClass.java" timestamp="1513471749360">
         <mark key="[" line="4" column="15" />
@@ -427,11 +437,11 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Exercises/Exe8_10.java" timestamp="1517405883581">
-        <mark key="[" line="24" column="9" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
+      <file name="$USER_HOME$/Documents/Introduction-to-Programming-Using-Java/Chapter 8/src/Exercises/Exe8_10.java" timestamp="1517407053125">
+        <mark key="[" line="65" column="62" />
+        <mark key="]" line="65" column="62" />
+        <mark key="." line="65" column="62" />
+        <mark key="^" line="65" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 6/src/edu/njit/junyi/exercises/Exe6_37.java" timestamp="1514519718262">
         <mark key="[" line="5" column="38" />
@@ -466,40 +476,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>x</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJUaGUgY2l0aWVzIGluIGFscGhhYmV0aWNhbCBvcmRlciBhcmUgIgogICAgICAgICAgICArIGNpdHkxICsgIiAiICsgY2l0eTIpOwogICAgICAgIH0gZWxzZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YW5kb207Cg==</text>
+        <text encoding="base64">CQlpbnQgbWF4ID0gMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBFeGVyY2lzZXM7CmFuZG9tOwo=</text>
+        <text encoding="base64">CQlpbnQgY29sdW1uID0gMDsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwucg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlpbnQgY291bnRlcjsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">VGhlIGNsb3Nlc3QgdHdvIHBvaW50cyBhcmUgIiArCgkJCQkiKCIgKyBwb2ludHNbcDFdWzBdICsgIiwiICsgcG9pbnRzW3AxXVsxXSArICIpIGFuZCAoIiArCgkJCQlwb2ludHNbcDJdWzBdICsgIiwiICsgcG9pbnRzW3AyXVsxXSArIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQlpbnQgcm93Owo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJU3lzdGVtLm91dC5wcmludCgiICAgICAiKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CW1heCA9IDA7CgkJCQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCX0K</text>
+        <text encoding="base64">YW5kb207Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCQlTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">cGFja2FnZSBFeGVyY2lzZXM7CmFuZG9tOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8JCQl9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwucg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8JCQkJU3lzdGVtLm91dC5wcmludChjW2ldW2pdICsgIiAgIik7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">VGhlIGNsb3Nlc3QgdHdvIHBvaW50cyBhcmUgIiArCgkJCQkiKCIgKyBwb2ludHNbcDFdWzBdICsgIiwiICsgcG9pbnRzW3AxXVsxXSArICIpIGFuZCAoIiArCgkJCQlwb2ludHNbcDJdWzBdICsgIiwiICsgcG9pbnRzW3AyXVsxXSArIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
