@@ -445,8 +445,10 @@
         <mark key="^" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1516805826458">
+      <file name="/fragment.java" timestamp="1517666596983">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/JavaTest/Chapter 2/src/edu/njit/junyi/samples/ComputeArea.java" timestamp="1514046354052">
         <mark key="[" line="14" column="38" />
@@ -466,10 +468,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>brackets[0][1</text>
+        <text>Chapter 8/src/Exercise</text>
       </register>
       <register name="-" type="4">
-        <text>brackets[0][1</text>
+        <text>Chapter 8/src/Exercise</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJUaGUgY2l0aWVzIGluIGFscGhhYmV0aWNhbCBvcmRlciBhcmUgIgogICAgICAgICAgICArIGNpdHkxICsgIiAiICsgY2l0eTIpOwogICAgICAgIH0gZWxzZSA=</text>
